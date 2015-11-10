@@ -4,14 +4,48 @@
 
 /* Color Palette */
 
+.color-1 {
+    background: magenta;
+}
+
+.color-2 {
+    background: lightblue;
+}
+
+.color-3 {
+    background: ghostwhite;
+}
+
 
 /* Textures or Patterns*/
 
+.pattern-1 {
+    background: url(../img/photography.png);
+}
+
+.pattern-2 {
+    background: url(../img/paisley.png);
+}
+
+.pattern-3 {
+    background: url(../img/congruent_pentagon.png);
+}
 
 /* Imagery */
 
+.imagery-1 {
+    background: url();
+}
 
-/* Icons */
+.imagery-2 {
+    background: url();
+}
+
+.imagery-3 {
+    background: url();
+}
+
+/* Icons     http://iconmonstr.com/ */
 
 
 /* Typography */
