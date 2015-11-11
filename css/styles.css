@@ -5,15 +5,15 @@
 /* Color Palette */
 
 .color-1 {
-    background: magenta;
+    background: rgb(36, 17, 28); /* background: rgb(36, 17, 28) Dark purple*/
 }
 
 .color-2 {
-    background: lightblue;
+    background: rgb(218, 178, 167); /* background: rgb(218, 178, 167); light pink*/
 }
 
 .color-3 {
-    background: ghostwhite;
+    background: rgb(83, 119, 134); /*background: rgb(83, 119, 134); blue*/
 }
 
 
@@ -28,17 +28,19 @@
 }
 
 .pattern-3 {
-    background: url(../img/congruent_pentagon.png);
+    background: url(../img/gplaypattern.png);
 }
 
 /* Imagery */
 
 .imagery-1 {
-    background: url();
+    background: url(../img/me.jpg);
+    height: 200px;
+    width: 300px;
 }
 
 .imagery-2 {
-    background: url();
+    background: url(../img/perfume.JPG);
 }
 
 .imagery-3 {
