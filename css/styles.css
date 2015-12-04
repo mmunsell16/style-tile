@@ -52,6 +52,17 @@
 
 /* Typography */
 
+.primary {
+   font-family:'Rochester', cursive;
+}
+
+.secondary {
+    font-family: 'Raleway', sans-serif;
+}
+
+.paragraphs {
+    font-family: 'Roboto Slab', serif;
+}
 
 /* Forms */
 
